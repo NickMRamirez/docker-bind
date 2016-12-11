@@ -7,4 +7,5 @@ $TTL 604800
   604800
 )
 
-172.17.0.3  IN  PTR  test.com.
+@  IN  NS  ns1.test.com.
+3.0.17.172.in-addr.arpa.  IN  PTR  test.com.
