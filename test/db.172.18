@@ -8,4 +8,4 @@ $TTL 604800
 )
 
 @  IN  NS  ns1.test.com.
-3.0.17.172.in-addr.arpa.  IN  PTR  test.com.
+3.0.18.172.in-addr.arpa.  IN  PTR  test.com.

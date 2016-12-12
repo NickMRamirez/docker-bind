@@ -9,4 +9,4 @@ $TTL 604800
 
 @  IN  NS  ns1.test.com.
 ns1.test.com.  IN  A  127.0.0.1
-@  IN  A  172.17.0.3
+@  IN  A  172.18.0.3
