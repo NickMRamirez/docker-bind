@@ -13,7 +13,7 @@ sudo docker run -d -p 127.0.0.1:53:53/udp --name dns1 -v ~/docker/bind/test/cust
 Query it:
 
 ```
-dig @localhost test.com -p 3353
+dig @localhost test.com -p 53
 
-nslookup -port=3353 test.com localhost
+nslookup -port=53 test.com localhost
 ```
